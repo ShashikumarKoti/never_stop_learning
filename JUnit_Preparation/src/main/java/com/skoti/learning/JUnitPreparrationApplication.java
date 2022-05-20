@@ -8,7 +8,6 @@ public class JUnitPreparrationApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(JUnitPreparrationApplication.class, args);
-		System.out.println("Welcome to Junit");
 	}
 
 }
